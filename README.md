@@ -12,7 +12,7 @@
 
 ## ✨ Live Demo 
 
-[](https://career-change-suggestion-tool-f.onrender.com/)
+[Click here to try out the Career Change Suggestion Tool!]("https://career-change-suggestion-tool-f.onrender.com/")
 
 
 
