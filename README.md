@@ -181,10 +181,10 @@ This project was developed with ❤️ by:
 
 **Teja Naik**
 
-* **GitHub:** [github.com/your-github-profile](https://github.com/your-github-profile)
-* **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
-* **Portfolio/Website:** [your-portfolio-website.com](https://your-portfolio-website.com)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+* **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/teja-naik-0b3021282)
+* **Portfolio/Website:** [your-portfolio-website.com](https://tejanaik15.github.io/personal-portfolio)
+* **Email:** [your.email@example.com](mailto:tinkuteja740@gmail.com)
 
 ---
 
