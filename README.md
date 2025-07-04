@@ -10,11 +10,11 @@
 
 ---
 
-## ✨ Live Demo (If Deployed)
+## ✨ Live Demo 
 
-[Click here to try out the Career Change Suggestion Tool!](https://your-deployed-frontend-url.vercel.app/)
+[Click here to try out the Career Change Suggestion Tool!](https://career-change-suggestion-tool-f.onrender.com/)
 
-*(Replace with your actual deployed Vercel/Netlify URL once available)*
+
 
 ---
 
