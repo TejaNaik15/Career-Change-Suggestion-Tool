@@ -15,7 +15,7 @@ const groq = new Groq({
 app.use(cors({
   origin: ["http://localhost:5173", "https://career-change-suggestion-tool-f.onrender.com"],
   methods: ['GET', 'POST'],
-  allowedHeaders: ['Content-Type'],
+  //allowedHeaders: ['Content-Type'],
 }));
 app.use(express.json()); 
 
