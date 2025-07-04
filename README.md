@@ -175,3 +175,23 @@ This project is designed for easy deployment to cloud platforms:
     * Ensure you set your `GROQ_API_KEY` as a secure environment variable within your hosting platform's settings.
 
 ---
+## 👩‍💻 Developed By
+
+This project was developed with ❤️ by:
+
+**Teja Naik**
+
+* **GitHub:** [github.com/your-github-profile](https://github.com/your-github-profile)
+* **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+* **Portfolio/Website:** [your-portfolio-website.com](https://your-portfolio-website.com)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## 🙏 Acknowledgements
+
+* [Groq](https://groq.com/) for providing fast inference for large language models.
+* [React](https://react.dev/) community for their amazing ecosystem.
+* [Tailwind CSS](https://tailwindcss.com/) for simplifying styling.
+* [Framer Motion](https://www.framer.com/motion/) for delightful animations.
+* All the open-source contributors for the libraries and tools used in this project.
